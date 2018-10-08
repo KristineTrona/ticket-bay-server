@@ -1,6 +1,6 @@
 # Ticket-bay server
 
-##Introduction
+## Introduction
 
 Ticket-bay project was built as a part of the Codaisseur learning programme.
 
